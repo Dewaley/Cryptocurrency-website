@@ -1,0 +1,25 @@
+{
+  "name": "Cryptocurrency-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o public/index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dewaley/Cryptocurrency-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dewaley/Cryptocurrency-website/issues"
+  },
+  "homepage": "https://github.com/Dewaley/Cryptocurrency-website#readme",
+  "dependencies": {
+    "autoprefixer": "^10.2.1",
+    "postcss": "^8.2.4",
+    "tailwindcss": "^2.0.2"
+  }
+}
